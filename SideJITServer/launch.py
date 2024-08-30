@@ -17,7 +17,7 @@
 # nuitka-project-if: {OS} == "Linux":
 #    nuitka-project: --output-filename=SideJITServer-linux-x86_64.bin
 # nuitka-project-if: {OS} == "Darwin":
-#    nuitka-project: --output-filename=SideJITServer-mac-arm64.bin
+#    nuitka-project: --output-filename=SideJITServer-mac-universal.bin
 
 # nuitka-project: --report=compilation-report.xml
 
